@@ -6,6 +6,7 @@ Está landing page usa la fuente Raleway creada por Matt McInerney, Pablo Impall
 #1D293D
 #2B2E38
 #F1F0ED
+#ceb4b4 rosa-humo
 # Proposito
 Niñas preadolescentes poniendo atención al cuidado de su piel y el uso de su primer maquillaje.
 # Que Necesita
